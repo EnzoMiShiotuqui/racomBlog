@@ -49,7 +49,7 @@ Rode
 ```
 
 ## Screenshot
-![screenshot](./print.png)
+![screenshot](print.png)
 
 ## Authors
 
